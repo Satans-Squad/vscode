@@ -1,0 +1,17 @@
+Parent Gini Impurity: 0.5
+Attribute: humidity
+Weighted Gini: 0.466667
+Gini Gain: 0.0333333
+
+Attribute: outlook
+Weighted Gini: 0.354167
+Gini Gain: 0.145833
+
+Attribute: temp
+Weighted Gini: 0.458333
+Gini Gain: 0.0416667
+
+Attribute: wind
+Weighted Gini: 0.333333
+Gini Gain: 0.166667
+

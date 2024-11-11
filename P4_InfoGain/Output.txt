@@ -1,0 +1,5 @@
+Info gain for all attributes:
+wind: 0.311278
+outlook: 0.250000
+temp: 0.061278
+humidity: 0.048795
